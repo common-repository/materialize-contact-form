@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Materialize contact form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-20 15:36+0000\n"
+"PO-Revision-Date: 2018-05-20 15:37+0000\n"
+"Last-Translator: admin <admin@vsweb.be>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/mcf_view.php:49
+msgid "Plugin settings"
+msgstr "Plugin settings"
+
+#: inc/mcf_view.php:62 inc/mcf_view.php:66
+msgid "REcaptcha public key"
+msgstr "REcaptcha public key"
+
+#: inc/mcf_view.php:72 inc/mcf_view.php:76
+msgid "REcaptcha private key"
+msgstr "REcaptcha private key"
+
+#: inc/mcf_view.php:82 inc/mcf_view.php:86
+msgid "Sender email"
+msgstr "Sender email"
+
+#: inc/mcf_view.php:92 inc/mcf_view.php:96
+msgid "Recipient email"
+msgstr "Recipient email"
+
+#: inc/mcf_view.php:116
+msgid ""
+"Thank you for your message,\n"
+"                we will follow up as soon as possible!"
+msgstr ""
+"Thank you for your message,\n"
+"                we will follow up as soon as possible!"
+
+#: inc/mcf_view.php:141
+msgid "The form has not been filled in correctly!"
+msgstr "The form has not been filled in correctly!"
+
+#: inc/mcf_view.php:168
+msgid "Lastname"
+msgstr "Lastname"
+
+#: inc/mcf_view.php:177
+msgid "Firstname"
+msgstr "Firstname"
+
+#: inc/mcf_view.php:196
+msgid "Subject"
+msgstr "Subject"
+
+#: inc/mcf_view.php:220
+msgid "Send"
+msgstr "Send"
+
+#: inc/mcf_view.php:479
+msgid "Name"
+msgstr "Name"
+
+#: inc/mcf_view.php:491
+msgid "Email"
+msgstr "Email"
+
+#: inc/mcf_view.php:501
+msgid "Message"
+msgstr "Message"
+
+#: inc/mcf_view.php:530
+msgid "Sent from"
+msgstr "Sent from"
+
+#: inc/mcf_widget.php:55
+msgid "A new generation contact form"
+msgstr "A new generation contact form"
+
+#: inc/mcf_widget.php:154
+msgid "New message received"
+msgstr "New message received"
+
+#. Name of the plugin
+msgid "Materialize contact form"
+msgstr "Materialize contact form"
+
+#. Description of the plugin
+msgid ""
+"A simple materialize style contact form with google REcaptcha optionally"
+msgstr ""
+"A simple materialize style contact form with google REcaptcha optionally"
+
+#. Author of the plugin
+msgid "Geoffrey Kratz"
+msgstr "Geoffrey Kratz"
+
+#. Author URI of the plugin
+msgid "https://vsweb.be"
+msgstr "https://vsweb.be"
